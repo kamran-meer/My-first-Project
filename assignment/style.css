@@ -1,0 +1,28 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: rgb(18, 18, 18);
+    color: aliceblue;
+
+}
+a{
+    color: aliceblue;
+    text-decoration:none;
+    margin-right: 5px;
+    font-size: 15px;
+
+}
+button{
+    padding: 2px 4px;
+    font-size: 15px;
+    background-color: rgb(80, 77, 72);
+    color: aliceblue;
+    border-radius: 5px;
+}
